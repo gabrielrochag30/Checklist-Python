@@ -21,4 +21,7 @@ Cada melhoria implementada foi uma oportunidade de aprender mais sobre lógica d
 2. Siga as instruções na tela para adicionar, remover ou marcar suas tarefas.  
 3. Ao final do dia, todas as tarefas serão automaticamente desmarcadas para começar o próximo dia do zero.
 
+
+![Print do Programa](checklist_python_print.jpg)
+
 ---
